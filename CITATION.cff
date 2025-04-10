@@ -1,12 +1,12 @@
-cff-version: 1.0
+cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Naik"
   given-names: "Trusha"
   orcid: "https://orcid.org/0000-0001-9472-0399"
 title: "Software to recreate figures from - Ocean Meridional Overturning Circulation during the Early and Middle Miocene"
-version: v1.0
+version: "1.0"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.15190395
-date-released: 2025-04-10
+    value: "10.5281/zenodo.15190395"
+date-released: "2025-04-10"
